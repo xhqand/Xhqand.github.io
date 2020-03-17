@@ -1,5 +1,5 @@
 # xhqand.github.io
 
-personal page
+personal page for xhq
 
 <https://xhqand.github.io/>
